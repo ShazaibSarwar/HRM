@@ -6,7 +6,7 @@ Human Resource Management system is a web application that enables users to crea
 
 
 This is Back-end Repo.
-You can find its front-end Repo Here 👉 : https://github.com/MuhammadNadeem/HRM-Frontend
+You can find its front-end Repo Here 👉 : https://github.com/iamnadii/HRM-frontend
 
 
 
